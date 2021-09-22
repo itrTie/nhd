@@ -1,0 +1,16 @@
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    font-family: "Segoe UI", serif;
+}
+
+h2 {
+    font-family: "Segoe UI", serif;
+}
+
+#nav {
+    font-family: "Segoe UI", serif;
+    text-align: center;
+}
