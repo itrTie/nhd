@@ -10,7 +10,15 @@ h2 {
     font-family: "Segoe UI", serif;
 }
 
+p {
+    font-family: "";
+}
+
 #nav {
     font-family: "Segoe UI", serif;
     text-align: center;
+}
+
+#important {
+    color: white;
 }
