@@ -3,19 +3,18 @@ body {
 }
 
 h1 {
-    font-family: "Segoe UI", serif;
+    
 }
 
 h2 {
-    font-family: "Segoe UI", serif;
+    
 }
 
 p {
-    font-family: "";
+    font-family: "Times New Roman";
 }
 
 #nav {
-    font-family: "Segoe UI", serif;
     text-align: center;
 }
 
