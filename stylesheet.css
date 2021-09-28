@@ -19,6 +19,6 @@ p {
     text-align: center;
 }
 
-#important {
-    font-weight: bold;
+#dim {
+    color: gray;
 }
