@@ -41,7 +41,8 @@ Now, you will be at a comparison page.  If everything looks right, press Create 
 
 I will then get a notification, then I can review the changes and accept them.
 Thank you for contributing!
-Note that I will **not** be accepting pull requests unless it is a student or teacher at my school.
+
+###### Note that I will **not** be accepting pull requests unless it is a student or teacher at my school.
 
 ---
 
