@@ -3,6 +3,30 @@
 
 ---
 
+## Git Basics
+### Read this if you want to suggest an edit.
+At the top part of the repository page, below the navigation bar, there are 3 buttons on the right.
+
+**Watch**
+
+Watch lets you be notified of updates on the repository.
+
+Watch means you only get notified for @mentions and when participating.
+
+Unwatch means you always get notified or you have selected custom settings.
+
+Unignore means you never get any notifications for that repository.
+
+**Star**
+
+Starring a repository is like liking a YouTube video, it shows your appreciation for it and you can keep it in an organised place.
+
+**Fork**
+
+This clones the repository to your account, where you can suggest changes.
+
+---
+
 ## What is National History Day?
 National History Day is a regional competition which is definitely not about history.
 Participants have to make a documentary, website, paper, exhibit, or website.
@@ -38,4 +62,3 @@ My page structure is as follows:
 - diplomacy
 - sources
 - files
-
