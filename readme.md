@@ -1,5 +1,5 @@
 # National History Day Project README
-## because GitHub is malding that I didn't have a readme
+## because GitHub is yelling at me to add a README.
 
 ---
 
