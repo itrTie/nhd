@@ -25,13 +25,23 @@ Starring a repository is like liking a YouTube video, it shows your appreciation
 
 This clones the repository to your account, where you can suggest changes.
 
+If it says "This branch is (number) commit(s) behind (original repository owner username):(forked branch).", press "Fetch upstream" and "Fetch and merge".
+Then, make your changes.
+
 To suggest changes, open the file you want to change.
 Press the pencil icon on the top of the text box, then make your change.
 At the bottom, press "Commit changes".
 
-At this time, you will be redirected to your forked repository's directory.
-At the top of the file list, at the right there will be a button labeled Contribute.
+At this time, you will be redirected the edited file.
+Press the repository name at the top, below the Octocat logo but to the right of the username at the very top.
+At the top of the file list, on the left side it should say "This branch is (number) commit(s) ahead (original repository owner username):(forked branch)."
+On the right of that, there will be a button labeled Contribute.
 Press that, then press "Open pull request".
+Now, you will be at a comparison page.  If everything looks right, press Create pull request on the right side of the blue box.
+
+I will then get a notification, then I can review the changes and accept them.
+Thank you for contributing!
+Note that I will **not** be accepting pull requests unless it is a student or teacher at my school.
 
 ---
 
