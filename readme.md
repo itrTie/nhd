@@ -7,7 +7,7 @@
 ### Read this if you want to suggest an edit.
 At the top part of the repository page, below the navigation bar, there are 3 buttons on the right.
 
-**Watch**
+### Watch
 
 Watch lets you be notified of updates on the repository.
 
@@ -17,11 +17,11 @@ Unwatch means you always get notified or you have selected custom settings.
 
 Unignore means you never get any notifications for that repository.
 
-**Star**
+### Star
 
 Starring a repository is like liking a YouTube video, it shows your appreciation for it and you can keep it in an organised place.
 
-**Fork**
+### Fork
 
 This clones the repository to your account, where you can suggest changes.
 
