@@ -25,6 +25,14 @@ Starring a repository is like liking a YouTube video, it shows your appreciation
 
 This clones the repository to your account, where you can suggest changes.
 
+To suggest changes, open the file you want to change.
+Press the pencil icon on the top of the text box, then make your change.
+At the bottom, press "Commit changes".
+
+At this time, you will be redirected to your forked repository's directory.
+At the top of the file list, at the right there will be a button labeled Contribute.
+Press that, then press "Open pull request".
+
 ---
 
 ## What is National History Day?
