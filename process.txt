@@ -1,0 +1,13 @@
+My topic was chosen relatively arbitrarily, my brother said free press so I decided to research that for NHD.
+I didn’t think it would spiral out to the Bill of Rights, but it did.
+I thought the opposition would come from the government, as even today, some countries don’t want the freedom of the press, North Korea for example.
+I ended up also finding out that even developed countries like Canada still outlaw seditious libel, but most of these bits that didn’t find its way into my website were usually Google searches.
+
+I built the website on the Bootstrap framework (version 5.1) using Bootstrap Studio (version 5.8.3), then pasted all of the code used into NHDWebCentral.
+Using this method not only allowed me to make a website that doesn’t look like it was made in 15 minutes by a 6 year old, but also made it a mobile-friendly website due to responsive scaling.
+As the checklist said to make the website to the best of my ability, I thought that turning in something on Google Sites or a standard drag-and-drop editor would suffice for others, but that is not even close to the best of my ability.
+I also then uploaded all of the source code to GitHub and linked it to my site.
+
+For research, I used Google searches to find sources, but then checked their credibility.
+I also used some government websites, and our school purchased access to a database called ProQuest, which I also used.
+I found a bunch of articles about notable people, and even reuploaded non-periodicals.
